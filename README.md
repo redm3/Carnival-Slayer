@@ -11,3 +11,5 @@ Using the two in conjunction is one of the fastest ways to build a web app.
 - Edit [App.jsx](#src/App.jsx) and watch it live update!
 
 By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+
+![Cool_Cat_Traits_6](https://user-images.githubusercontent.com/56494159/219338227-d122e27c-1471-4ec7-9277-8206d8e4bf29.png)
